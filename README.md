@@ -4,6 +4,7 @@
 ## 目录
 ### 前端技术知识点
 - [Javascript 执行机制](https://github.com/xushaocong/blog/issues/1)
+- [Vue 生命周期详解](https://github.com/xushaocong/blog/issues/2)
 - 慢慢更新...
 
 ### 经验总结
